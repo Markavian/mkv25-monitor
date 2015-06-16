@@ -1,0 +1,14 @@
+{
+  "name": "mkv25-monitor",
+  "version": "1.0.0",
+  "description": "A monitor for mkv25.net",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "John Beech",
+  "license": "ISC",
+  "dependencies": {
+    "product-monitor": "^1.7.0"
+  }
+}
