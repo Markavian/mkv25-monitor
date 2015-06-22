@@ -9,6 +9,6 @@
   "author": "John Beech",
   "license": "ISC",
   "dependencies": {
-    "product-monitor": "^1.7.0"
+    "product-monitor": "^1.8.2"
   }
 }
